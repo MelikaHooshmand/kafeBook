@@ -1,0 +1,86 @@
+@font-face{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    direction: rtl;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    margin: 0px;
+    padding: 0px;
+    overflow: scroll;
+}
+/* // Headers */
+a{
+    color: #000;
+    text-decoration: none;
+    margin: 10px;
+}
+a:hover{
+    color: #2b01e1;
+    cursor: pointer;
+}
+.theone{
+    margin-right: 120px;
+}
+.logo{
+    margin-right: 150px;
+    margin-left: 200px;
+    padding: 20px;
+    display: inline-block;
+   
+}
+.advertisement{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+.thetwo{
+    margin-right: 120px;
+}
+/* container part */
+.box{
+    margin-top: 20px;
+    margin-right: 110px;
+}
+.first-box{
+    height: 45px;
+    width: 260px;
+    border-radius: 5px;
+    border-color: #32c3ce;
+    margin: 10px;
+    background-color: transparent;
+}
+.second-box{
+    height: 46px;
+    width: 260px;
+    border-radius: 5px;
+    border-color: #32c3ce;
+    margin: 10px;
+    background-color: transparent;
+}
+.third-box{
+    height: 46px;
+    width: 260px;
+    border-radius: 5px;
+    border-color: #32c3ce;
+    margin: 10px;
+    background-color: transparent;
+}
+.fourth-box{
+    height: 46px;
+    width: 260px;
+    border-radius: 5px;
+    border-color: #32c3ce;
+    margin: 10px;
+    background-color: transparent;
+}
+.book1{
+    margin-right: 110px;
+    border: none;
+}
+.book3{
+    margin-right: 110px;
+    border: none;
+}
